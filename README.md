@@ -21,7 +21,7 @@ Pour verifier que l'installation est fini ,il faut consulter les dossier de proj
 
 ## Démarrage
 
-Pour lancer cette application , entrer le commande suivant dans votre terminal "ruby app.rb" et choisir ce que vous voulez. 
+Pour lancer cette application , entrer la commande suivante dans votre terminal "ruby app.rb" et choisir ce que vous voulez. 
 
 ## Auteurs
 Les profils de github des membres dans groupe 6 au Sayna School
